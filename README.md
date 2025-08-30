@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **MeghashriG/MeghashriG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
